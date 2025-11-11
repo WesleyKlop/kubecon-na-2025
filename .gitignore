@@ -60,3 +60,4 @@ backstage/values-rendered.yaml
 crossplane/04-xrds/dbaas/
 crossplane/05-compositions/dbaas/
 kyverno/deprecate-old-psql-versions.yaml
+.envrc
